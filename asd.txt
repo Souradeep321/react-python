@@ -1,0 +1,1 @@
+https://api.dicebear.com/8.x/adventurer/svg?seed=Poushali&hair=long01,long02,long03&accessories=earrings&backgroundColor=transparent
