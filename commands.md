@@ -39,3 +39,6 @@ pip freeze > requirments.txt
 ```
 #### it will create a requirement.txt file
 
+
+```
+pip install -r requirements.txt && cd ../frontend && npm install build
