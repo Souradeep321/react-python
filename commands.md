@@ -31,4 +31,11 @@ flask run
 flask run --reload
 ```
 
+## create a "vsgi.py" file inside backend folder
+
+## run this command inside backend folder
+```
+pip freeze > requirments.txt
+```
+#### it will create a requirement.txt file
 
