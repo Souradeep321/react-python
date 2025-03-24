@@ -41,4 +41,4 @@ pip freeze > requirements.txt
 
 
 ```
-pip install -r requirements.txt && cd ../frontend && npm install build
+pip install -r requirements.txt && cd ../frontend && npm install && npm run build
