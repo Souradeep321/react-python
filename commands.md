@@ -35,7 +35,7 @@ flask run --reload
 
 ## run this command inside backend folder
 ```
-pip freeze > requirments.txt
+pip freeze > requirements.txt
 ```
 #### it will create a requirement.txt file
 
